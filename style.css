@@ -18,7 +18,7 @@ font-family: 'Playfair Display', serif;*/
 }
 
 body {
-  background-color: var(--clr-dark);
+  background-color: var(--clr-darker);
   color: var(--clr-text);
   font-family: 'Open Sans Condensed', sans-serif;
   min-height: 100vh;
@@ -75,7 +75,7 @@ form button:hover {
 
 .todo-container {
   min-height: 50vh;
-  max-height: 62vh;
+  max-height: 60vh;
   display: flex;
   justify-content: center;
   align-items: center;
