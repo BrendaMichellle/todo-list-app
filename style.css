@@ -212,6 +212,10 @@ select {
   select {
     max-width: 15vw;
   }
+
+  header {
+    font-size: 2rem;
+  }
   header, .subtitle {
     text-align: center;
   }
